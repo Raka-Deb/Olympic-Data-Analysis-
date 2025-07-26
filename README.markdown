@@ -3,6 +3,11 @@
 ## Overview
 This report presents the findings from an exploratory data analysis (EDA) conducted on the Olympic dataset (`dataset_olympics.csv`) using a Jupyter Notebook (`Olympic_Data.ipynb`). The dataset contains information about Olympic athletes, their participation, and medal achievements across various years, sports, and events. The analysis focuses on understanding the dataset's structure, identifying data quality issues, and exploring patterns in medal distributions using statistical summaries and visualizations.
 
+
+![image alt](https://github.com/Raka-Deb/Olympic-Data-Analysis-/blob/48473e0759c1aaac9e398ce33488d8568779e41c/Olympic_rings_without_rims.svg.png)
+
+
+
 ## Dataset Description
 The Olympic dataset consists of 70,000 records with 15 columns, capturing details about athletes and their Olympic participation. Below is a detailed description of the columns:
 
